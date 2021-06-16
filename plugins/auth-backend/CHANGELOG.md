@@ -1,5 +1,16 @@
 # @backstage/plugin-auth-backend
 
+## 0.3.13
+
+### Patch Changes
+
+- 1aa31f0af: Add support for refreshing GitLab auth sessions.
+- Updated dependencies [e5cdf0560]
+- Updated dependencies [772dbdb51]
+- Updated dependencies [1d2ed7844]
+  - @backstage/backend-common@0.8.3
+  - @backstage/catalog-model@0.8.3
+
 ## 0.3.12
 
 ### Patch Changes
